@@ -1,4 +1,4 @@
 # EMMA DILLON
 ## About Me
 I am a sophomore at Lehigh University studying Political Science and Journalism. Please feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/emmadillon98/) page. 
-![Emma](emma-dillon.github.io/13978330_617525525076189_670056409_o (1).jpg)
+![Emma](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/13978330_617525525076189_670056409_o%20(1).jpg?raw=true)
