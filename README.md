@@ -6,4 +6,4 @@ I am a sophomore at Lehigh University studying Political Science and Journalism.
 
 
 Below is an infographic of the demographics of where Lehigh University students are from.
-![Infographic](https://www.canva.com/design/DACt5Anfjqo/M9neFXIvhZRL161aMMF_aQ/view?utm_content=DACt5Anfjqo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Infographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Raise%20your%20glass.png?raw=true)
