@@ -6,7 +6,8 @@ I am a sophomore at Lehigh University studying Political Science and Journalism.
 
 
 A common fallacy among students, is that everyone who attends Lehigh is from New Jersey. Below is an infographic of the demographics of where Lehigh University students are from.
-![Infographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Raise%20your%20glass.png?raw=true)
+![LehighInfographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Raise%20your%20glass.png?raw=true)
 
 
 While I was watching the 60th Annual Grammy Awards, I wondered to myself the role music plays in people's lives. Below is an infographic which demonstrates the trends in music between 2017 and 2016.
+![MusicInfographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/How%20Has%20Media%20Consumption%20Increased%3F.png?raw=true)
