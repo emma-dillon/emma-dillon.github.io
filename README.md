@@ -11,3 +11,7 @@ A common fallacy among students, is that everyone who attends Lehigh is from New
 
 While I was watching the 60th Annual Grammy Awards, I wondered to myself the role music plays in people's lives. Below is an infographic which demonstrates the trends in music between 2017 and 2016.
 ![MusicInfographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Media%20Consumption%20Increased%3F.png?raw=true)
+
+
+As part of our class assignment, we created a Timeline of the 2016 Summer Olympics using Google Spreadsheets and Timeline.
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qw3e8Y_SwZbw7ayDmZ2YT9dbdXl-Jv53Xi1kjiVDQAU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
