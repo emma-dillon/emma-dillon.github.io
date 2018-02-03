@@ -15,3 +15,6 @@ While I was watching the 60th Annual Grammy Awards, I wondered to myself the rol
 
 As part of our class assignment, we created a Timeline of the 2016 Summer Olympics using Google Spreadsheets and Timeline.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Qw3e8Y_SwZbw7ayDmZ2YT9dbdXl-Jv53Xi1kjiVDQAU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+A popular app, Vine, was discontinued in 2017. As a huge fan of the app, I've decided to create a Timeline of the life of Vine. 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_aTfKwih8SWhVZU_vwGaVI4O1gbwrgLD34ZHDhWM2Bc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
