@@ -10,7 +10,7 @@ A common fallacy among students, is that everyone who attends Lehigh is from New
 
 ## Music Consumption Trends Infographic
 While I was watching the 60th Annual Grammy Awards, I wondered to myself the role music plays in people's lives. According to [Nielsen's Music 360 Report](http://www.nielsen.com/us/en/insights/news/2017/time-with-tunes-how-technology-is-driving-music-consumption.html), on average Americans spend just over 32 hours a week listening to music in 2017, up 5.5 hours over last year. They credit the increase in consumption due to technonology and its accessibility. Consumers are now listening to music ALL OF THE TIME: in the car, at work, at the gym, on the bus, at home, it is everywhere. Below is an infographic which demonstrates the trends in music between 2017 and 2016.
-![MusicInfographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/How%20Has%20Media%20Consumption%20Increased%3F-2.png?raw=true)
+![MusicInfographic](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Music%20Consumption.png?raw=true)
 
 ## Summer Olympics Timeline
 As part of our class assignment, we created a Timeline of the 2016 Summer Olympics using Google Spreadsheets and Timeline.
