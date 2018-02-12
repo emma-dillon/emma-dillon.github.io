@@ -27,3 +27,7 @@ Take a look at the Lehigh Undergraduate Enrollment distribution in the bar graph
 ## Lehigh Undergraduate Enrollment from 2007-2017: A Line Graph
 Below is a line graph of the Lehigh Undergraduate College Enrollment from 2007 to 2017. Check out the changes!
 ![UndergraduateEnrollment](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Lehigh_Undergraduate_Enrollment_from_2007-2017_Arts_and_Science_Business_Engineering_chartbuilder.png?raw=true)
+
+## Revenue of the Fast Food Industry in the US from 2007 to 2018: A Line Graph
+As you drive on the highway or through any time, it's impossible to escape some sort of fast food restaurant. Whether it be McDonalds, Burger King, Taco Bell- they're on every other block. And their revenue has rised in the past 11 years, and continues to grow. Below is a line graph of that growth.  
+![FastFoodRevenue](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Revenue_of_the_Fast_Food_Industry_in_the_US_from_2007_to_2018_Revenue_chartbuilder.png?raw=true)
