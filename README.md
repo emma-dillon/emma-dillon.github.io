@@ -23,3 +23,7 @@ A popular app, Vine, was discontinued in 2017. As a huge fan of the app, I've de
 ## Lehigh Undergraduate Enrollment: A Bar Chart
 Take a look at the Lehigh Undergraduate Enrollment distribution in the bar graph below. 
 ![UndergraduateEnrollment](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+## Lehigh Undergraduate Enrollment from 2007-2017: A Line Graph
+Below is a line graph of the Lehigh Undergraduate College Enrollment from 2007 to 2017. Check out the changes!
+![UndergraduateEnrollment](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Lehigh_Undergraduate_Enrollment_from_2007-2017_Arts_and_Science_Business_Engineering_chartbuilder.png?raw=true)
