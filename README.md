@@ -19,7 +19,6 @@ As part of our class assignment, we created a Timeline of the 2016 Summer Olympi
 ## The Life and Death of Vine: A Timeline
 A popular app, Vine, was discontinued in 2017. As a huge fan of the app, I've decided to create a Timeline of the life of Vine. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_aTfKwih8SWhVZU_vwGaVI4O1gbwrgLD34ZHDhWM2Bc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
 ## Lehigh Undergraduate Enrollment: A Bar Chart
 Take a look at the Lehigh Undergraduate Enrollment distribution in the bar graph below. 
 ![UndergraduateEnrollment](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/2016_Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
