@@ -32,4 +32,5 @@ As you drive on the highway or through any time, it's impossible to escape some 
 ![FastFoodRevenue](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Revenue_of_the_Fast_Food_Industry_in_the_US_from_2007_to_2018_Revenue_chartbuilder.png?raw=true)
 
 ## Art Areas in Bethlehem, PA: A Map
+As practice in class, we created a map for art areas around Bethlehem. Check it out!
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1I1PRfOuM5XSHfJ8W2G3zjF1dZae7Vcmhqu8biMcN&amp;viz=MAP&amp;h=false&amp;lat=40.61142802417879&amp;lng=-75.37207858504178&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
