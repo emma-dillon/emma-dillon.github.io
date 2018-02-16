@@ -34,3 +34,7 @@ As you drive on the highway or through any time, it's impossible to escape some 
 ## Art Areas in Bethlehem, PA: A Map
 As practice in class, we created a map for art areas around Bethlehem. Check it out!
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1I1PRfOuM5XSHfJ8W2G3zjF1dZae7Vcmhqu8biMcN&amp;viz=MAP&amp;h=false&amp;lat=40.61142802417879&amp;lng=-75.37207858504178&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+## Mass Shootings in 2018: A Map
+In wake of the most recent mass shooting on February 14th, 2018 in Parkland, Florida which left 17 dead and 15 injured, I have decided to create a map of the mass shootings that have occurred in 2018. I gathered my data from the [Gun Violence Archive](http://www.gunviolencearchive.org/reports/mass-shooting). 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col2+from+1BS4NeO13TtHGA4XrITYh7Bn8RkzeEkE5UOA9Reuz&amp;viz=MAP&amp;h=false&amp;lat=36.364219427188765&amp;lng=-87.568104425&amp;t=1&amp;z=4&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
