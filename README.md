@@ -1,3 +1,21 @@
+# coding: utf-8
+
+Gem::Specification.new do |spec|
+  spec.name          = "jekyll-cayman-theme"
+  spec.version       = "0.1.0"
+  spec.authors       = ["Pietro F. Menna"]
+  spec.email         = ["pietromenna@yahoo.com"]
+
+  spec.summary       = %q{A Jekyll theme for the responsive theme for GitHub Pages http://jasonlong.github.io/cayman-theme/ }
+  spec.homepage      = "https://github.com/pietromenna/jekyll-cayman-theme"
+  spec.license       = "MIT"
+
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_layouts|_includes|_sass|LICENSE|README)/i}) }
+
+  spec.add_development_dependency "jekyll", "~> 3.2"
+  spec.add_development_dependency "bundler", "~> 1.12"
+  spec.add_development_dependency "rake", "~> 10.0"
+end
 # EMMA DILLON
 ## About Me
 I am a sophomore at Lehigh University studying Political Science and Journalism. I've lived in Larchmont, NY my entire life, but have loved exploring the ins and outs of Lehigh's campus. Please feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/emmadillon98/) page. 
