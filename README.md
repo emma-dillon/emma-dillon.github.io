@@ -5,6 +5,7 @@ I am a sophomore at Lehigh University studying Political Science and Journalism.
 
 ## Welcome to my page: A comic
 To welcome you all to my Github page, please enjoy this comic. Have a wonderful day!
+![Welcome](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Screen%20Shot%202018-03-05%20at%203.50.55%20PM.png?raw=true)
 
 ## Lehigh Student's Demographics: An Infographic
 A common fallacy among students, is that everyone who attends Lehigh is from New Jersey. Below is an infographic of the demographics of where Lehigh University students are from.
