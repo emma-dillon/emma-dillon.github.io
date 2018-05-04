@@ -8,8 +8,7 @@ To welcome you all to my Github page, please enjoy this comic. Have a wonderful 
 ![Welcome](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Screen%20Shot%202018-03-05%20at%203.50.55%20PM.png?raw=true)
 
 ## The Lehigh After Dark Program: A Feature Project
-Below is my indesign project and video for the Lehigh After Dark program. Enjoy! 
-![video](https://youtu.be/OvWRw7Z2q68)
+Below is my indesign project and [video](https://youtu.be/OvWRw7Z2q68) for the Lehigh After Dark program. Enjoy! 
 ![Page](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!.jpg?raw=true)
 ![SecondPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!2.jpg?raw=true)
 ![ThirdPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!3.jpg?raw=true)
