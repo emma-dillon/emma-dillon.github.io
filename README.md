@@ -3,9 +3,16 @@
 I am a sophomore at Lehigh University studying Political Science and Journalism. I've lived in Larchmont, NY my entire life, but have loved exploring the ins and outs of Lehigh's campus. Please feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/emmadillon98/) page. 
 ![Emma](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/13978330_617525525076189_670056409_o%20(1).jpg?raw=true)
 
-## Welcome to my page: A comic
+## Welcome to my page: A Comic
 To welcome you all to my Github page, please enjoy this comic. Have a wonderful day!
 ![Welcome](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/Screen%20Shot%202018-03-05%20at%203.50.55%20PM.png?raw=true)
+
+## The Lehigh After Dark Program: A Feature Project
+Below is my indesign project and video for the Lehigh After Dark program. Enjoy! 
+![video](https://youtu.be/OvWRw7Z2q68)
+![Page](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!.jpg?raw=true)
+![SecondPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!2.jpg?raw=true)
+![ThirdPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!3.jpg?raw=true)
 
 
 ## Music Consumption Trends: An Infographic
