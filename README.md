@@ -12,6 +12,11 @@ Below is my indesign project and [video](https://youtu.be/OvWRw7Z2q68) for the L
 ![Page](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!.jpg?raw=true)
 ![SecondPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!2.jpg?raw=true)
 ![ThirdPage](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/project!3.jpg?raw=true)
+![Slide](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/slide.jpg?raw=true)
+![Hoops](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/hoops.jpg?raw=true)
+![Watergun](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/watergun.jpg?raw=true)
+![Wings](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/wings.jpg?raw=true)
+![Line](https://github.com/emma-dillon/emma-dillon.github.io/blob/master/line.jpg?raw=true)
 
 
 ## Music Consumption Trends: An Infographic
